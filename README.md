@@ -1,4 +1,4 @@
-# 📊 Store Sales Analysis
+# Store Sales Analysis
 
 This project focuses on analyzing a store’s sales data using **Microsoft Excel**. Pivot tables and charts were used to extract meaningful business insights, and dashboards were created to visualize the key trends and patterns.
 
@@ -15,5 +15,5 @@ This project focuses on analyzing a store’s sales data using **Microsoft Excel
 
 ---
 
-## 📷 Dashboard Screenshots
+## Dashboard Screenshots
 ![Output](Dashboard.png)
