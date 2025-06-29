@@ -4,14 +4,6 @@ This project focuses on analyzing a store’s sales data using **Microsoft Excel
 
 ---
 
-## 🛠️ Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Dashboards
-
----
-
 ##  Business Questions Solved
 
 1. **Order vs Sales Trend** – Monthly order volume trend
@@ -64,4 +56,4 @@ This project focuses on analyzing a store’s sales data using **Microsoft Excel
 > 
 
 ```markdown
-![Dashboard Overview](Dashboard.png)
+![Output](Dashboard.png)
